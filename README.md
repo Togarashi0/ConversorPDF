@@ -20,6 +20,7 @@
 
 ```bash
   Baixe e instale o Tesseract OCR para Windows a partir do repositório oficial.
+  Pode ser que precise por o caminho do path da pasta bin
   https://github.com/UB-Mannheim/tesseract/wiki
 ```
     
@@ -27,6 +28,7 @@
 
 ```bash
   Baixe e instale o Poppler para Windows a partir do repositório oficial.
+  Pode ser que precise por o caminho do path da pasta bin
   https://github.com/oschwartz10612/poppler-windows/releases
 ```
 
