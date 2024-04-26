@@ -41,13 +41,13 @@
 ## Uso/Exemplos
  No cmd use o comando:
 ```bash 
-  python -h 
+  python app.py -h 
 ```
   ou
 
-  Execute o script ocr_pdf.py fornecendo o caminho para o arquivo PDF como argumento. Por exemplo:
+  Execute o script app.py fornecendo o caminho para o arquivo PDF como argumento. Por exemplo:
 ``` 
-  python ocr_pdf.py caminho_do_seu_arquivo.pdf 8
+  python app.py caminho_do_seu_arquivo.pdf 8
 ```
 O segundo argumento é opcional e representa o número de páginas a serem processadas. Se não for fornecido, todas as páginas serão processadas.
 
